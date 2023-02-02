@@ -1,0 +1,3 @@
+Git command used are:
+1. git fetch =>this told me if there are any changes on the remote repository.
+2. git pull => this was used to update the local repository.
